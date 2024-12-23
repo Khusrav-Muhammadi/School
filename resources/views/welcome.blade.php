@@ -114,6 +114,7 @@
         </div>
     </div>
 </div>
+Author: Akhmedova M.F., 3rd year student, specialty 40010202RA (Information technology in economics). The work was done within the framework of projects on specialization at the Department of Digital Economy, Faculty of Engineering and Economics, Khujand Polytechnic Institute of the Tajik Technical University named after M. Osimi.
 <section id="mu-slider">
     <div class="mu-slider-single">
         <div class="mu-slider-img">
